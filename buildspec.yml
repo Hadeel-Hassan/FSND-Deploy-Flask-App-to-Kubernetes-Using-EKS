@@ -3,7 +3,7 @@ version: 0.2
 
 env:
   parameter-store:
-    JWT_SECRET: vBBvTBg5F8ln1y3EVZi4y+E0+dlcC/py8d09OaRX
+    JWT_SECRET: JWT_SECRET
 
 phases:
   install:
